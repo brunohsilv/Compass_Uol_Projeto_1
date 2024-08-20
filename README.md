@@ -112,5 +112,15 @@ Note que o pacote não está instalado, portanto:
 `sudo systemclt enable crond`  
 `# habilita a inicialização automatica do serviço`  
 
+### Arquivos de saída
+Ativo  
+![6 ativo](https://github.com/user-attachments/assets/81a5252d-e818-45c7-81e8-3836e68c48e9)  
+Inativo  
+![6 inativo](https://github.com/user-attachments/assets/f052b33c-2656-4f2f-98e8-9917efeacff8)  
+
+
+
+
+
 
 
